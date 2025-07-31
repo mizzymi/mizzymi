@@ -1,6 +1,20 @@
-👋 Hi, I'm @mizzymi
-🎮 Interests: Video games, cosplay, art, programming, design, and much more!
-🌱 Currently learning: Expanding my skills in web development.
-🚀 Current Project: Akaladrom — An RPG game that combines video gameplay and real-life roleplay experiences. I'm working on the game design, lore, illustrations, and the web platform.
-🤝 Looking to collaborate: Interested in working on video game creation, web development, or creative design projects.
-⚧ Pronouns: She/Her, He/Him
+<div align="center">
+    <h1 align="center">
+        Hi, My name is Marina Lladó (Mizzy) 👋
+    <h1>
+</div>
+
+## About Me
+
+- 👨‍💻 Fullstack MERN developer.
+- 🎮 In my free time, I program 2D video games using Gamemaker Studio 2 and Unity.
+- 💡 Constantly learning more every day.
+- 🚀 I enjoy challenges.
+
+### ⚙ &nbsp;GitHub Analytics
+
+<p align="center">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=mizzymi&theme=highcontrast" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mizzymi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mizzymi&layout=compact&langs_count=8&theme=dark"/>
+</p>
