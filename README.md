@@ -14,7 +14,7 @@
 ### ⚙ &nbsp;GitHub Analytics
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=mizzymi&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="[https://streak-stats.demolab.com?user=mizzymi&theme=dark&hide_border=true](https://streak-stats.demolab.com/?user=mizzymi&theme=highcontrast)" alt="GitHub Streak" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mizzymi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mizzymi&layout=compact&langs_count=8&theme=dark"/>
 </p>
