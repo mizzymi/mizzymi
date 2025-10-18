@@ -8,7 +8,7 @@
 ## About Me
 
 - 👨‍💻 Fullstack MERN developer.
-- 🎮 In my free time, I program 2D video games using Gamemaker Studio 2 and Unity.
+- 🎮 In my free time, I program 2D video games and mobile apps.
 - 💡 Constantly learning more every day.
 - 🚀 I enjoy challenges.
 
