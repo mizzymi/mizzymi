@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/e12285e9-8dd8-4c6a-a58f-a4b953ea0606.svg)](https://wakatime.com/@e12285e9-8dd8-4c6a-a58f-a4b953ea0606)
 <div align="center">
     <h1 align="center">
         Hi, My name is Marina Lladó (Mizzy) 👋
