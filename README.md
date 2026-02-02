@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 👨‍💻 Fullstack MERN developer.
+- 👨‍💻 Fullstack developer.
 - 🎮 In my free time, I program 2D video games and mobile apps.
 - 💡 Constantly learning more every day.
 - 🚀 I enjoy challenges.
